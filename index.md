@@ -38,12 +38,24 @@ Through this portfolio, I hope to demonstrate my progress, strengthen my technic
 
 # 3. Certifications and Training
 
-This section highlights my cybersecurity-related training, workshops, and continuous learning activities.
+## 3. Certifications & Training
 
-I am currently improving my technical knowledge through academic coursework, practical cybersecurity labs, and independent learning.
+I am currently building my cybersecurity knowledge and practical skills through my academic studies and hands-on laboratory activities. Although I have not obtained any professional cybersecurity certifications yet, I am actively developing my technical skills and gaining experience in different areas of cybersecurity.
 
-*Verified certifications and completed training will be added here.*
+### Academic Training and Practical Learning
 
+- **Master of Cybersecurity – Universiti Malaya (Ongoing)**  
+  Developing knowledge in cybersecurity through postgraduate coursework and practical laboratory activities.
+
+- **Bachelor of Computer Science (Computer Network Security) – Universiti Sultan Zainal Abidin (UniSZA)**  
+  Gained foundational knowledge in computer networking, network security, and cybersecurity concepts.
+
+- **Hands-on Cybersecurity Laboratory Practice**  
+  Practised using Kali Linux, VirtualBox, Nmap, and Metasploitable 2 for network scanning, service enumeration, and security testing in an isolated lab environment.
+
+### Future Certification Goals
+
+I plan to pursue relevant cybersecurity certifications in the future to strengthen my technical knowledge and support my career goal of becoming a penetration tester.
 
 # 4. Projects
 
@@ -54,8 +66,7 @@ This project focuses on setting up a virtual cybersecurity lab using Kali Linux,
 The lab provides an isolated environment for practising network security, connectivity testing, and basic penetration testing techniques.
 
 **Tools:** Kali Linux, Metasploitable 2, Oracle VirtualBox
-
-*Project documentation and evidence will be added soon.*
+[View Project 1 Documentation](projects/virtual-lab-setup/README.md)
 
 ## Project 2: Network Scanning and Service Enumeration Using Nmap
 
@@ -64,8 +75,7 @@ This project focuses on identifying open ports and running services on a Metaspl
 The objective is to understand how network scanning can help identify exposed services and support security assessments.
 
 **Tools:** Nmap, Kali Linux, Metasploitable 2
-
-*Project documentation and evidence will be added soon.*
+[View Project 2 Documentation](projects/nmap-service-scan/README.md)
 
 # Other Academic Projects
 
@@ -105,7 +115,7 @@ My long-term goal is to contribute to the cybersecurity industry by helping orga
 I am open to connecting with cybersecurity professionals, students, and individuals who share similar interests.
 
 - **Email:** nadhyrhan@gmail.com
-- **GitHub:** [My GitHub Profile](https://github.com/)
-- **LinkedIn:** To be added
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/nur-hana-nadhira-hazamil-810723361/)
+- **GitHub:** [HannQ22](https://github.com/HannQ22)
 
 *Thank you for visiting my cybersecurity portfolio!*
