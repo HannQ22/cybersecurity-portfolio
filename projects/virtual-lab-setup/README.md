@@ -50,9 +50,35 @@ This was addressed by checking the network adapter settings and verifying the IP
 
 In the future, I plan to improve the lab by adding more virtual machines and exploring different network security configurations.
 
+
 ## Evidence
 
-Screenshots of the virtual machine configuration and connectivity testing will be added to the evidence folder.
+The following screenshots demonstrate the successful setup and configuration of my virtual cybersecurity lab.
+
+### 1. VirtualBox Setup
+
+This screenshot shows the Kali Linux and Metasploitable 2 virtual machines configured in Oracle VirtualBox.
+
+![VirtualBox Setup](evidence/virtualbox-setup.png)
+
+### 2. Host-Only Network Configuration
+
+This screenshot shows the Host-Only network configuration used to establish communication between both virtual machines.
+
+![Host-Only Network](evidence/host-only-network.png)
+
+### 3. Kali Linux IP Address
+
+This screenshot shows the IP address assigned to the Kali Linux virtual machine.
+
+![Kali IP Address](evidence/kali-ip-address.png)
+
+### 4. Connectivity Test
+
+This screenshot shows the successful ping test from Kali Linux to Metasploitable 2, confirming network connectivity.
+
+![Ping Connectivity](evidence/ping-connectivity.png)
+
 
 ## Ethical Considerations
 
