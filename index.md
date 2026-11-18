@@ -86,15 +86,21 @@ The objective is to understand how network scanning can help identify exposed se
 
 # 5. Learning Journey
 
-My cybersecurity learning journey started during my undergraduate studies in Computer Network Security at UniSZA.
+My interest in cybersecurity started during my Bachelor of Computer Science (Computer Network Security) at Universiti Sultan Zainal Abidin (UniSZA). Throughout my undergraduate studies, I learned about computer networks, security concepts, and how different technologies are used to protect information systems. As I explored different areas of cybersecurity, I became more interested in penetration testing because I enjoy understanding how security weaknesses can be identified and how systems can be improved.
 
-Throughout my studies, I gained knowledge of networking concepts, cybersecurity fundamentals, and security assessment techniques.
+One of my important learning experiences was completing my final-year project on ransomware detection using deep learning. Through this project, I gained experience in research, Python programming, and understanding how machine learning techniques can support cybersecurity. It also taught me that cybersecurity is not only about using security tools but also about analysing problems and finding suitable solutions.
 
-My internship experience also helped me understand how cybersecurity knowledge can be applied in real-world environments.
+I also gained practical exposure during my internship, where I was involved in IT-related tasks such as computer configuration, troubleshooting, and basic network security activities. This experience helped me understand how technical knowledge is applied in a working environment. I learned the importance of communication, teamwork, and being responsible when handling IT systems.
 
-Currently, as a Master of Cybersecurity student at Universiti Malaya, I am continuing to develop my technical and analytical skills through coursework, practical labs, and independent learning.
+Currently, I am pursuing my Master of Cybersecurity at Universiti Malaya. My postgraduate studies have given me more opportunities to develop my technical skills through coursework and laboratory activities. One of the areas I particularly enjoy is network security, especially learning how to use tools such as Kali Linux, Nmap, and Scapy.
 
-*My detailed learning reflection will be added here.*
+For my practical learning, I created an isolated virtual cybersecurity lab using VirtualBox, Kali Linux, and Metasploitable 2. I configured the virtual network and tested connectivity between the machines before performing an Nmap scan to identify open ports and running services. This activity helped me understand how network reconnaissance works and why it is important to perform security testing only in authorised environments.
+
+However, the learning process was not always smooth. I experienced connectivity issues while setting up my virtual lab, which required me to check the network configuration and troubleshoot the connection between the virtual machines. Although it was frustrating at first, solving these problems helped me become more patient and confident when dealing with technical challenges. I realised that troubleshooting is an important skill in cybersecurity because not everything works correctly on the first attempt.
+
+Through these experiences, I have learned that cybersecurity requires continuous learning, practical experience, and a strong understanding of ethical responsibilities. I still have many areas to improve, especially in penetration testing methodologies, vulnerability assessment, and security reporting.
+
+My next goal is to strengthen my penetration testing skills by completing more authorised hands-on labs and documenting at least two additional cybersecurity projects within the next six months. I also hope to explore relevant professional certifications in the future. By continuing to practise and learn, I aim to build the knowledge and confidence needed to pursue a career as a penetration tester.
 
 # 6. Career Objective
 
