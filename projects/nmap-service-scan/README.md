@@ -84,9 +84,20 @@ This project helped me become more familiar with service enumeration and the rol
 
 In the future, I would improve this project by comparing different Nmap scanning techniques and documenting how scan configurations affect the results.
 
+
 ## Evidence
 
-The Nmap scan output and supporting screenshots will be added to the evidence folder.
+The following screenshot shows the results of the Nmap service version detection scan performed against Metasploitable 2 in my isolated virtual lab.
+
+### Nmap Service Scan Results
+
+![Nmap Service Scan Results](evidence/nmap-scan.png)
+
+The scan identified 23 open TCP ports, including FTP, SSH, HTTP, SMB, MySQL, and PostgreSQL services.
+
+The results helped me understand how Nmap can be used to identify exposed network services and gather information during the reconnaissance phase of penetration testing.
+
+All scanning activities were performed in my own authorised virtual lab for educational purposes.
 
 ## Ethical Considerations
 
