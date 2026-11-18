@@ -38,8 +38,6 @@ Through this portfolio, I hope to demonstrate my progress, strengthen my technic
 
 # 3. Certifications and Training
 
-## 3. Certifications & Training
-
 I am currently building my cybersecurity knowledge and practical skills through my academic studies and hands-on laboratory activities. Although I have not obtained any professional cybersecurity certifications yet, I am actively developing my technical skills and gaining experience in different areas of cybersecurity.
 
 ### Academic Training and Practical Learning
@@ -66,6 +64,7 @@ This project focuses on setting up a virtual cybersecurity lab using Kali Linux,
 The lab provides an isolated environment for practising network security, connectivity testing, and basic penetration testing techniques.
 
 **Tools:** Kali Linux, Metasploitable 2, Oracle VirtualBox
+
 [View Project 1 Documentation](projects/virtual-lab-setup/README.md)
 
 ## Project 2: Network Scanning and Service Enumeration Using Nmap
@@ -75,6 +74,7 @@ This project focuses on identifying open ports and running services on a Metaspl
 The objective is to understand how network scanning can help identify exposed services and support security assessments.
 
 **Tools:** Nmap, Kali Linux, Metasploitable 2
+
 [View Project 2 Documentation](projects/nmap-service-scan/README.md)
 
 # Other Academic Projects
