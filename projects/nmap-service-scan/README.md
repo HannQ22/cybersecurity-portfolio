@@ -99,6 +99,13 @@ The results helped me understand how Nmap can be used to identify exposed networ
 
 All scanning activities were performed in my own authorised virtual lab for educational purposes.
 
+### Nmap Scan Report
+
+The full Nmap scan output is available below for reference.
+
+[View Nmap Scan Report](evidence/metasploitable_nmap.txt)
+
+
 ## Ethical Considerations
 
 All scanning activities were performed against Metasploitable 2 within my own isolated virtual lab for educational purposes.
